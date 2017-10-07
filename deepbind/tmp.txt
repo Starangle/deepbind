@@ -1,0 +1,11 @@
+data\wgEncodeAwgTfbsBroadGm12878Ezh239875UniPk\
+data\wgEncodeAwgTfbsBroadH1hescChd1a301218aUniPk\
+data\wgEncodeAwgTfbsBroadH1hescEzh239875UniPk\
+data\wgEncodeAwgTfbsBroadH1hescJarid1aab26049UniPk\
+data\wgEncodeAwgTfbsBroadH1hescRbbp5a300109aUniPk\
+data\wgEncodeAwgTfbsBroadHelas3Ezh239875UniPk\
+data\wgEncodeAwgTfbsBroadHelas3Pol2bUniPk\
+data\wgEncodeAwgTfbsBroadHepg2Ezh239875UniPk\
+data\wgEncodeAwgTfbsBroadHmecEzh239875UniPk\
+data\wgEncodeAwgTfbsBroadHsmmEzh239875UniPk\
+data\wgEncodeAwgTfbsBroadHsmmtEzh239875UniPk\
